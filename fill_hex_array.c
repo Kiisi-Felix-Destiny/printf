@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * fill_hex_array - writes the character c to stdout
  *

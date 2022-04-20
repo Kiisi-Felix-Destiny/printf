@@ -1,6 +1,5 @@
-#include "main.h"
+#include "holberton.h"
 #include <stdio.h>
-
 /**
  * print_prg - writes the character c to stdout
  * @a: input char

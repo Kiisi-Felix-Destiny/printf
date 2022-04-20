@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * prinhoct - prints long decimal number in octal
  * @arguments: input number

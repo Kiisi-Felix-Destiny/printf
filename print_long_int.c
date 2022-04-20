@@ -1,4 +1,4 @@
-#include "main.h"
+#include "holberton.h"
 /**
  * prinlint - prints a long integer
  * @arguments: input string

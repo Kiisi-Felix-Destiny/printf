@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * prinnhex - print number in hex begining with zero
  * @arguments: input string

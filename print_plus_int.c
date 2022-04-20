@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * prinpint - print integer with plus symbol
  * @arguments: input string

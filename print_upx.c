@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * print_upx - prints a decimal in hexadecimal
  * @arguments: The character to print

@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * print_oct - prints decimal number in octal
  * @arguments: input number

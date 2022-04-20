@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * prinnupx - prints number in uppercase hex
  * @arguments: input string

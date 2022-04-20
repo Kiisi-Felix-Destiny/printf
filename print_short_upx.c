@@ -1,5 +1,4 @@
-#include "main.h"
-
+#include "holberton.h"
 /**
  * prinhupx - prints a short decimal in hexadecimal
  * @arguments: The character to print
