@@ -1,23 +1,14 @@
 #include "main.h"
-<<<<<<< HEAD
 
 /**
  * _printf - formatted output conversion and print data.
  * @format: input string.
  *
  * Return: number of chars printed.
-=======
-/**
- * _printf - format output conversion and print data
- * @format: input string
- *
- * Return: number of chars printed
->>>>>>> a03147287186890cfc666f55a1fa383a48098e91
  */
 
 int _printf(const char *format, ...)
 {
-<<<<<<< HEAD
 	unsigned int i = 0; len = 0, ibuf = 0;
 	va_list arguments;
 	int (*function)(va_list, char *, unsigned int);
@@ -62,9 +53,3 @@ int _printf(const char *format, ...)
 	print_buf(buffer, ibuf), free(buffer), va_end(arguments);
 	return (len);
 }
-=======
-	unsigned int i = 0, len = 0; ibuf = 0;
-	va_list arguments;
-	int (*function)(va_list, char *, unsigned int);
-	char *buffer;
->>>>>>> a03147287186890cfc666f55a1fa383a48098e91
